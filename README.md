@@ -10,5 +10,4 @@ I have made my basic extension using the tutorials already available on internet
 Hope I have mentioned all my steps correctly.😁
 
 ## Acknowledgements
-
 - [Extension 1 Tutorial link ](https://www.freecodecamp.org/news/building-chrome-extension/)
