@@ -16,6 +16,3 @@ Hope I have mentioned all my steps correctly.😁
 ## Acknowledgements
 
  - [Extension 1 Tutorial link ](https://www.freecodecamp.org/news/building-chrome-extension/)
- - [Extension 2 Tutorial link ]()
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
